@@ -1,9 +1,0 @@
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\obj\Debug\Pico_y_Placa.csprojResolveAssemblyReference.cache
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\obj\Debug\Pico_y_Placa.csproj.GenerateResource.Cache
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
-d:\mvramirez\documentos\visual studio 2015\Projects\Pico_y_Placa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
